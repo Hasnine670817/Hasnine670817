@@ -1,16 +1,29 @@
 ![MasterHead](https://i.ibb.co.com/Jj3Ch94m/bg-github.png)
-<h1 align="left">Hi 👋, I'm Hasnine Torun</h1>
-<h3 align="left">A passionate frontend developer from Bangladesh</h3>
+<h1 align="left">Hasnine Torun</h1>
+<h3 align="left">Front-End Developer | JavaScript | React | Tailwind CSS</h3>
+<hr style="width: 350px; height: 2px; background-color: #00b4d8; border: none; margin-left: 0;" />
 
-<img align="right" width="350" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
+<h3 align="left">A Passionate Front-End Developer from Bangladesh</h3>
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
-- 🌱 I’m currently learning **React, Firebase**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HZXR9kQzyqvjA3r2maI5wFkBCTOyeXZz/view](https://drive.google.com/file/d/1HZXR9kQzyqvjA3r2maI5wFkBCTOyeXZz/view)
+### 🌱 Currently Learning
+I’m enhancing my skills in *ReactJS* and building interactive, responsive web applications.
+
+### 📫 Contact Me
+You can reach me at: *[hasninetorun@gmail.com](mailto:hasninetorun@gmail.com)*
+
+### 📄 My Resume
+Know more about my experiences and projects:  
+[View My Resume](https://drive.google.com/file/d/1HZXR9kQzyqvjA3r2maI5wFkBCTOyeXZz/view)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100078697656137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100078697656137" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100078697656137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100078697656137" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
