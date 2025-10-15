@@ -1,8 +1,8 @@
-![MasterHead](https://i.ibb.co/TxTcyZBS/github-banner.png)
+![MasterHead](https://i.ibb.co.com/Jj3Ch94m/bg-github.png)
 <h1 align="left">Hi 👋, I'm Hasnine Torun</h1>
 <h3 align="left">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
+<img align="right" width="350" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
 - 🌱 I’m currently learning **React, Firebase**
 
