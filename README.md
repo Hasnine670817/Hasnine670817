@@ -16,7 +16,7 @@ You can reach me at: *[hasninetorun@gmail.com](mailto:hasninetorun@gmail.com)*
 
 ### 📄 My Resume
 Know more about my experiences and projects:  
-[View My Resume](https://drive.google.com/file/d/1HZXR9kQzyqvjA3r2maI5wFkBCTOyeXZz/view)
+[View My Resume](https://drive.google.com/file/d/1MljhxgD2finhpKLT4UJq-EF3QLTCUiPW/view?usp=sharing)
 
 
 
