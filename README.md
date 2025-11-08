@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co.com/Jj3Ch94m/bg-github.png)
+![MasterHead](https://i.ibb.co.com/TM2p8z9z/github-bio.png)
 <h1 align="left">Hasnine Torun</h1>
 <h3 align="left">Front-End Developer | JavaScript | React | Tailwind CSS</h3>
 <hr style="width: 350px; height: 2px; background-color: #00b4d8; border: none; margin-left: 0;" />
