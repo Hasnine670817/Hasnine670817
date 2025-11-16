@@ -1,4 +1,5 @@
 ![MasterHead](https://i.ibb.co.com/Qj67YS1y/github-bio-min.png)
+
 # Hasnine Torun  
 ### Front-End Developer &nbsp;||&nbsp; JavaScript Enthusiast &nbsp;||&nbsp; React Learner
 
@@ -37,8 +38,6 @@ My goal is to build visually appealing and fully responsive applications using m
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
 </p>
 
-<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
-
 ---
 
 ## 🔗 **Connect with Me**
@@ -59,11 +58,28 @@ My goal is to build visually appealing and fully responsive applications using m
 ---
 
 ## 📊 **GitHub Stats**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hasninetorun&show_icons=true&theme=dark" />
+<p align="left">
+
+<!-- GitHub Stats New API -->
+<img src="https://github-readme-stats.vercel.app/api?username=hasninetorun&show_icons=true&theme=tokyonight" height="165"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasninetorun&layout=compact&theme=tokyonight" height="165"/>
+
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasninetorun&layout=compact&theme=dark" />
+
+---
+
+## 📈 **GitHub Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasninetorun&theme=tokyo-night&area=true" />
+</p>
+
+---
+
+## 🐍 **GitHub Contribution Snake**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hasninetorun/hasninetorun/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -85,4 +101,3 @@ My goal is to build visually appealing and fully responsive applications using m
 
 ## 🧠 **My Philosophy**
 > “I aim to build clean, responsive, and impactful web experiences — where creativity meets code.”
-
